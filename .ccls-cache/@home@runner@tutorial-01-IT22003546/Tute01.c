@@ -16,5 +16,6 @@ int main() {
   printf("%.2f", avg);
   
   return 0;
+  
 }
 
